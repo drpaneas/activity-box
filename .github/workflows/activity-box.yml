@@ -15,4 +15,4 @@ jobs:
           GH_PAT: ${{ secrets.activity-box }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GH_USERNAME: drpaneas
-          GIST_ID: 6532cd023d19cc6616cc28ae581d9856
+          GIST_ID: 23376d05f6ffcd32cfc77b63c7de28ac

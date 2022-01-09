@@ -1,6 +1,7 @@
 name: Activity Box
 
 on:
+  workflow_dispatch:
   schedule:
   # Do things every 10 minutes
     - cron: '*/10 * * * *'
